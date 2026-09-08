@@ -47,14 +47,48 @@ Most of my time is spent either **building something**, **breaking something**, 
 
 ## Familiar With
 
-[![C](https://img.shields.io/badge/C-21262d?style=flat&logo=c&logoColor=c9d1d9)](#)
-[![C%23](https://img.shields.io/badge/C%23-21262d?style=flat&logo=csharp&logoColor=c9d1d9)](#)
-[![Java](https://img.shields.io/badge/Java-21262d?style=flat&logo=openjdk&logoColor=c9d1d9)](#)
-[![Python](https://img.shields.io/badge/Python-21262d?style=flat&logo=python&logoColor=c9d1d9)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat&logo=javascript&logoColor=c9d1d9)](#)
-[![Go](https://img.shields.io/badge/Go-21262d?style=flat&logo=go&logoColor=c9d1d9)](#)
-[![Dart](https://img.shields.io/badge/Dart-21262d?style=flat&logo=dart&logoColor=c9d1d9)](#)
-[![Lua](https://img.shields.io/badge/Lua-21262d?style=flat&logo=lua&logoColor=c9d1d9)](#)
+**Languages**
+
+[![Java](https://img.shields.io/badge/Java-262C36?style=flat\&logo=openjdk\&logoColor=c9d1d9)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-262C36?style=flat\&logo=javascript\&logoColor=c9d1d9)](#)
+[![Rust](https://img.shields.io/badge/Rust-262C36?style=flat\&logo=rust\&logoColor=c9d1d9)](#)
+[![C](https://img.shields.io/badge/C-262C36?style=flat\&logo=c\&logoColor=c9d1d9)](#)
+[![C%23](https://img.shields.io/badge/C%23-262C36?style=flat\&logo=csharp\&logoColor=c9d1d9)](#)
+[![Lua](https://img.shields.io/badge/Lua-262C36?style=flat\&logo=lua\&logoColor=c9d1d9)](#)
+[![Python](https://img.shields.io/badge/Python-262C36?style=flat\&logo=python\&logoColor=c9d1d9)](#)
+[![Dart](https://img.shields.io/badge/Dart-262C36?style=flat\&logo=dart\&logoColor=c9d1d9)](#)
+[![Go](https://img.shields.io/badge/Go-262C36?style=flat\&logo=go\&logoColor=c9d1d9)](#)
+[![SQL](https://img.shields.io/badge/SQL-262C36?style=flat\&logo=sqlite\&logoColor=c9d1d9)](#)
+
+**Web & Mobile**
+
+[![React](https://img.shields.io/badge/React-262C36?style=flat\&logo=react\&logoColor=c9d1d9)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-262C36?style=flat\&logo=svelte\&logoColor=c9d1d9)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-262C36?style=flat\&logo=flutter\&logoColor=c9d1d9)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-262C36?style=flat\&logo=nodedotjs\&logoColor=c9d1d9)](#)
+[![Express](https://img.shields.io/badge/Express-262C36?style=flat\&logo=express\&logoColor=c9d1d9)](#)
+[![Flet](https://img.shields.io/badge/Flet-262C36?style=flat\&logoColor=c9d1d9)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-262C36?style=flat\&logo=firebase\&logoColor=c9d1d9)](#)
+
+**Databases**
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-262C36?style=flat\&logo=mongodb\&logoColor=c9d1d9)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-262C36?style=flat\&logo=postgresql\&logoColor=c9d1d9)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-262C36?style=flat\&logo=sqlite\&logoColor=c9d1d9)](#)
+
+**Game Development**
+
+[![Unity](https://img.shields.io/badge/Unity-262C36?style=flat\&logo=unity\&logoColor=c9d1d9)](#)
+[![Godot](https://img.shields.io/badge/Godot-262C36?style=flat\&logo=godotengine\&logoColor=c9d1d9)](#)
+
+**DevOps & Tools**
+
+[![Linux](https://img.shields.io/badge/Linux-262C36?style=flat\&logo=linux\&logoColor=c9d1d9)](#)
+[![Git](https://img.shields.io/badge/Git-262C36?style=flat\&logo=git\&logoColor=c9d1d9)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-262C36?style=flat\&logo=github\&logoColor=c9d1d9)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-262C36?style=flat\&logo=vercel\&logoColor=c9d1d9)](#)
+[![Render](https://img.shields.io/badge/Render-262C36?style=flat\&logo=render\&logoColor=c9d1d9)](#)
+
 
 
 <br>
