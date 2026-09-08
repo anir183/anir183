@@ -3,6 +3,9 @@
   # `anir183`  
     
   **security · sotware · linux · procrastination**  
+  [![Website](https://img.shields.io/badge/Website-262C36?style=flat&logo=globe&logoColor=c9d1d9)](https://anir183.is-a.dev)
+  [![Blog](https://img.shields.io/badge/Blog-262C36?style=flat&logo=rss&logoColor=c9d1d9)](https://anir183.is-a.dev/blog)
+  [![Resume](https://img.shields.io/badge/Resume-262C36?style=flat&logo=readthedocs&logoColor=c9d1d9)](https://anir183.is-a.dev/assets/resume.pdf)
   **[website](https://anir183.is-a.dev) · [blog](https://anir183.is-a.dev/blog) · [resume](https://anir183.is-a.dev/assets/resume.pdf)**
   
 </div>
